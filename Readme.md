@@ -13,4 +13,4 @@ plotly: For Complex Data Visualisations
 The dataset for the Indian Startups Funding used for this project can be found here
 ## Feature Details :
 Sr. No - Serial number. Date - Date of funding in format DD/MM/YYYY. StartupName - Name of the startup which got funded. IndustryVertical - Industry to which the startup belongs. SubVertical - Sub-category of the industry type. CityLocation - City which the startup is based out of. InvestorsName - Name of the investors involved in the funding round. InvestmentType - Either Private Equity or Seed Funding. AmountInUSD - Funding Amount in USD. Remarks - Other information, if any.
-
+ ### The link to the blog displayings the findings for this project can be found [here](https://medium.com/@rishabh.runwal/heres-what-you-need-to-know-about-the-indian-startup-ecosystem-3bf979cd4abc)
