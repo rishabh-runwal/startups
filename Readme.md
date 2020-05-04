@@ -1,6 +1,13 @@
 # Startups-EDA
+There is immense interest in the Startup Ecosystem and hence I have decided to perform Exploratory Data Analysis of the funded startups in India since 2015, to gain some interesting insights.
 An analysis of the funding trends and patterns based on Indian startups Dataset. Some useful insights like what type of startups are getting funded, which is location is ideal for setting up a startup and Companies that heavily invest in India.
-
+## Libraries Used:
+Pandas: For Data Wrangling
+numpy: For Effecient Data Processing
+matplotlib: For Data Visualising
+seaborn: For Data Visualising
+wordcloud: To visualise : String Data
+plotly: For Complex Data Visualisations
 ## Dataset
 The dataset for the Indian Startups Funding used for this project can be found here
 ## Feature Details :
